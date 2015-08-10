@@ -5,7 +5,7 @@ Fetches contact data from ownCloud and creates contacts.xml file for MicroSIP Vo
 This python script generates a contacts.xml file whic fits as addressbook to
 the VoIP client MicroSIP (http://www.microsip.org). It uses the CardDAV CLI
 client pyCardDAV (https://github.com/geier/pycarddav) to fetch the contact
-data from an CardDAV location like ownCloud.
+data from a CardDAV server such as ownCloud.
 
 # Requirements:
 - Python 2.7 (tested)
