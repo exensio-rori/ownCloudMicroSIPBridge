@@ -14,5 +14,5 @@ data from an CardDAV location like ownCloud.
 - Runs with ownCloud 8 (tested)
 
 # Usage:
-1) Change the settings below in section "My Settings"
-2) Runt "python ownCloudMicroSIPBridge.py"
+- Change the settings below in section "My Settings"
+- Run "python ownCloudMicroSIPBridge.py"
